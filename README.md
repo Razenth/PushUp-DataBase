@@ -22,13 +22,13 @@
 
 ###### DIAGRAMA LÓGICO
 
-![DIAGRAMA LÓGICO.vpd](.\images\DIAGRAMA LÓGICO.vpd.png)
+![DIAGRAMA LÓGICO.vpd](./images/DIAGRAMA%20LÓGICO.vpd.png)
 
 ###### DIAGRAMA FÍSICO 
 
-![DIAGRAMA FÍSICO.vpd](.\images\DIAGRAMA FÍSICO.vpd.png)
+![DIAGRAMA FÍSICO.vpd](./images/DIAGRAMA%20FÍSICO.vpd.png)
 
 ###### DIAGRAMA RELACIONAL 
 
-![DIAGRAMA RELACIONAL.vpd](.\images\DIAGRAMA RELACIONAL.vpd.png)
+![DIAGRAMA RELACIONAL.vpd](./images/DIAGRAMA%20RELACIONAL.vpd.png)
 
