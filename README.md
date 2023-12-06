@@ -22,13 +22,13 @@
 
 ###### DIAGRAMA LÓGICO
 
-![DIAGRAMA LÓGICO.vpd](C:\Users\user\Documents\PushUp-DataBase\images\DIAGRAMA LÓGICO.vpd.png)
+![DIAGRAMA LÓGICO.vpd](.\images\DIAGRAMA LÓGICO.vpd.png)
 
 ###### DIAGRAMA FÍSICO 
 
-![DIAGRAMA FÍSICO.vpd](C:\Users\user\Documents\PushUp-DataBase\images\DIAGRAMA FÍSICO.vpd.png)
+![DIAGRAMA FÍSICO.vpd](.\images\DIAGRAMA FÍSICO.vpd.png)
 
 ###### DIAGRAMA RELACIONAL 
 
-![DIAGRAMA RELACIONAL.vpd](C:\Users\user\Documents\PushUp-DataBase\images\DIAGRAMA RELACIONAL.vpd.png)
+![DIAGRAMA RELACIONAL.vpd](.\images\DIAGRAMA RELACIONAL.vpd.png)
 
